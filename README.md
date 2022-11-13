@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yejin%20Hong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&&height=300&section=header&text=Yejin%20Hong&fontSize=90&fontColor=FFFFFF)
 
- 
-<center>what I used at least once</center>
+
+<div>
+<div align="center">what I used at least once</div>
+<p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
@@ -18,10 +20,15 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+</p>
+</div>
 
+<br/>
 
-ing...
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJinHong&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=YeJinHong&show_icons=true">
+</p>
 
 
 <!--
